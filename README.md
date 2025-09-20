@@ -87,7 +87,7 @@ Streamlit app running...
 ---
 
 ## Notes
-- Place all your documents (PDFs, TXTs, etc.) in `ai/data`
+- Place all your documents (CSV) in `ai/data`
 - The vector store will be persisted under `ai/data/chroma_db`
 - To rebuild with new documents, just re-run `build_vector_store.py`
 - Tho a sample vector store is already kept in the `ai/data/`
