@@ -1,4 +1,4 @@
-# RAG Vector Store Builder
+# FAQ RAG
 
 This project helps you **build and persist a Chroma vector database** from your local documents.  
 It uses a configurable chunking strategy and embeddings backend to prepare your data for Retrieval-Augmented Generation (RAG).
