@@ -72,8 +72,16 @@ python build_vector_store.py
 
 Expected output:
 ```
-/absolute/path/to/ai/data/raw
+/absolute/path/to/ai/data/chroma_db
 Chroma vectorstore built and persisted
+```
+```bash
+streamlit run streamlit_main.py
+```
+
+Expected output:
+```
+Streamlit app running...
 ```
 
 ---
